@@ -1,0 +1,14 @@
+﻿  BerserkHate.cpp
+C:\Users\жопа\source\repos\DexLife\DexLife\BerserkHate.cpp(24,1): warning C4129: |: неизвестная escape-последовательность
+C:\Users\жопа\source\repos\DexLife\DexLife\BerserkHate.cpp(26,1): warning C4129: /: неизвестная escape-последовательность
+C:\Users\жопа\source\repos\DexLife\DexLife\BerserkHate.cpp(69,39): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\жопа\source\repos\DexLife\DexLife\BerserkHate.cpp(70,28): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\жопа\source\repos\DexLife\DexLife\BerserkHate.cpp(230,24): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\жопа\source\repos\DexLife\DexLife\BerserkHate.cpp(231,27): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\жопа\source\repos\DexLife\DexLife\BerserkHate.cpp(400,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\жопа\source\repos\DexLife\DexLife\BerserkHate.cpp(405,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\жопа\source\repos\DexLife\DexLife\BerserkHate.cpp(528,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\жопа\source\repos\DexLife\DexLife\BerserkHate.cpp(645,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\жопа\source\repos\DexLife\DexLife\BerserkHate.cpp(713,65): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\жопа\source\repos\DexLife\DexLife\BerserkHate.cpp(123): warning C4715: Dice::Dir: значение возвращается не при всех путях выполнения
+  DexLife.vcxproj -> C:\Users\жопа\source\repos\DexLife\Debug\DexLife.exe
